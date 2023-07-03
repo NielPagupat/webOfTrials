@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+#navBar a.active button{
+    background-color: aliceblue;
+    color: black;
+    height: 50px;
+    margin-top: 15px;
+}
